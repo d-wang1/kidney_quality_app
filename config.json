@@ -1,0 +1,5 @@
+{
+    "source": "csv",
+    "file": "data.csv",
+    "dir": "/mnt/RIS/group_root/data/pathology/david_slide_data/kpmp_data"
+}
